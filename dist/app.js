@@ -3,4 +3,4 @@ console.log(typeof count)
 
 count = "trtrt"
 
-console.log(typeof count)
+// console.log(typeof count)
